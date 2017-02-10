@@ -9,7 +9,7 @@
 
 @end
 
-@implementation FMDatabase
+@implementation FMDatabase//
 @synthesize cachedStatements=_cachedStatements;
 @synthesize logsErrors=_logsErrors;
 @synthesize crashOnErrors=_crashOnErrors;
